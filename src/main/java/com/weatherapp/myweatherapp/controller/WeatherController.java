@@ -84,6 +84,5 @@ public class WeatherController {
 
     String secondCityConditions = secondCityInfo.conditions;
 
-    if 
-
+    return "Both";
 }
